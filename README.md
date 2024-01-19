@@ -1,10 +1,7 @@
-- 👋 Hi, I’m @ermanayd
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- merhaba ben  @ermanayd
+- Udemig Şirketinden Frontend Developer ve React Developer eğitimleri alıyorum
+- Html ,Html5 ,CSS,SCSS,JavaScript ve React ile web tasarım ve arayüz oluşturmaktan keyif alıyorum.
+- mail adresim aydierman@gmail.com
+- 
 
-<!---
-ermanayd/ermanayd is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+
